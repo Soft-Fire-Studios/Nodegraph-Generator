@@ -21,3 +21,7 @@ This simple utility is capable of randomly generating nodes across the entirety 
 ### To do
 - Calculate positions through Nav-Mesh first, then calculate randomly
 - Fix any bugs
+
+### Credits
+- Cpt. Hazama (me) - Coding
+- Silverlan - Providing code for accessing .ain files
